@@ -9,7 +9,7 @@ Ubuntu 22.04 ve ROS 2 Humble kullanılarak Python ile geliştirilmiş sanal sıc
 - Sıcaklık değerlerinin terminalde izlenmesi
 - 30 °C üzerindeki sıcaklıklarda uyarı verilmesi
 - ROS 2 parametresiyle ayarlanabilir sıcaklık eşiği
-- PyQt5 ile koyu temalı masaüstü arayüzü
+- PyQt5 masaüstü arayüzü
 - Gerçek zamanlı sıcaklık grafiği
 - Minimum, maksimum ve ortalama sıcaklık değerleri
 - CSV dosyasına veri kaydetme
