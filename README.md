@@ -48,6 +48,8 @@ git clone https://github.com/EmirhanEn/Ros2_Sicaklik_Izleyici.git
 
 ## Derleme
 
+source /opt/ros/humble/setup.bash
+
 cd ~/ros2_ws
 colcon build --packages-select sicaklik_izleyici_py
 source install/setup.bash
