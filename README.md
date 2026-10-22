@@ -75,25 +75,25 @@ Bu komut sıcaklık sensörünü, izleyiciyi ve PyQt5 arayüzünü başlatır.
 
 ## Ayrı Ayrı Çalıştırma
 
-# Her terminalde önce:
+### Her terminalde önce:
 
 ```bash
 source ~/ros2_ws/install/setup.bash
 ```
 
-# Sensör:
+### Sensör:
 
 ```bash
 ros2 run sicaklik_izleyici_py sensor
 ```
 
-# İzleyici:
+### İzleyici:
 
 ```bash
 ros2 run sicaklik_izleyici_py izleyici
 ```
 
-# Arayüz:
+### Arayüz:
 
 ```bash
 ros2 run sicaklik_izleyici_py arayuz
