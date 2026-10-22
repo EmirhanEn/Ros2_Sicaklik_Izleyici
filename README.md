@@ -42,7 +42,7 @@ source /opt/ros/humble/setup.bash
 
 mkdir -p ~/ros2_ws/src
 cd ~/ros2_ws/src
-git clone https://github.com/EmirhanEn/sicaklik_izleyici_py.git
+git clone https://github.com/EmirhanEn/Ros2_Sicaklik_Izleyici.git
 
 
 
